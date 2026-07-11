@@ -13,26 +13,46 @@ Building at the intersection of intelligent systems, human-centered products, an
 
 ---
 
-## What I'm building
+## Featured work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [My Portfolio](https://github.com/azwarfadzlin1/my-portfolio)
+### [UniMove](https://github.com/azwarfadzlin1/UniMove)
 
-My personal corner of the web — a place for selected work, experiments, and the story behind what I build.
+A native campus fitness platform combining live GPS workouts, challenges, leaderboards, social activity, nutrition, and wearable synchronization.
 
-<code>Python</code> <code>Product Design</code> <code>Web</code>
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>Firebase</code>
 
 </td>
 <td width="50%" valign="top">
 
-### [azwarfadzlin1.github.io](https://github.com/azwarfadzlin1/azwarfadzlin1.github.io)
+### [UniMove Wearable](https://github.com/azwarfadzlin1/UniMove_Wearable)
 
-The public home for my work, built to make projects easy to discover and understand.
+A focused Wear OS companion for phone-free workout tracking and resilient synchronization with the UniMove Android application.
 
-<code>GitHub Pages</code> <code>Frontend</code> <code>Open Web</code>
+<code>Wear OS</code> <code>Health Services</code> <code>Data Layer</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [UniMove Admin](https://github.com/azwarfadzlin1/Admin-Dashboard)
+
+A secure programme-level dashboard for understanding student fitness participation, challenge performance, and campus activity trends.
+
+<code>Node.js</code> <code>Firebase</code> <code>Analytics</code>
+
+</td>
+<td width="50%" valign="top">
+
+### [Portfolio](https://azwarfadzlin1.github.io)
+
+My public home for selected projects, experiments, and the thinking behind what I build.
+
+<code>Web</code> <code>Product Design</code> <code>Open Source</code>
 
 </td>
 </tr>
